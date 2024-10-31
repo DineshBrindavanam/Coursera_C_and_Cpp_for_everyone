@@ -1,4 +1,4 @@
-// This a calculator used to computing area and circumference of 
+// This is a calculator used to computing area and circumference of 
 //      circle with the user defined radius value
 
 // Date: 2024-10-28
